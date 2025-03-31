@@ -1,2 +1,1 @@
-# Optimization-unibg
-Optimization course project (unibg)
+Gradient Descent Methods
